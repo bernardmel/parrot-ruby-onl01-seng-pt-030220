@@ -3,7 +3,3 @@
 def phrase
  "Squawk!"
 end
-
-def parrot
-  puts "Squawk!"
-end
