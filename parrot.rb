@@ -5,5 +5,6 @@ def parrot
 end
 
 def parrot
-  "Squawk!"
+  puts "Squawk!"
+  Squawk!
 end
