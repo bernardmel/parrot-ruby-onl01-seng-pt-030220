@@ -6,5 +6,5 @@ def parrot
 end
 
 def parrot (phrase = "Pretty bird!")
-  puts "#{phrase}"
+  "Squawk!"
 end
